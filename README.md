@@ -1,12 +1,14 @@
 # Final_Project-Coursera-Git-GitHub
-Final Project in Coursera Topic Git/GitHub 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+<b>A calculator that calculates simple interest given principal</b>, annual rate of interest and time period in years.
 
-Input:
-
-p, principal amount
-p, principal amount
-t, time period in years
-r, annual rate of interest
-Output
-simple interest = p*t*r
+<b>Input:</b><br>
+<ul>
+   <li><b>p</b>, principal amount<br></li>
+   <li><b>p</b>, principal amount<br></li>
+   <li><b>t</b>, time period in years<br></li>
+   <li><b>r</b>, annual rate of interest<br></li>
+</ul>
+<b>Output<br>
+<ul>
+   <li>simple interest = p*t*r</li>
+</ul>
